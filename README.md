@@ -1,6 +1,6 @@
 # API I used
 
-In this project I used this [API](https://openweathermap.org/).
+In the project I used this [API](https://openweathermap.org/).
 
 # Getting Started with Create React App
 
